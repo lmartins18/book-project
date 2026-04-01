@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>The Freemason's Monitor</dc:title>
+    <dc:creator>Thomas Smith Webb</dc:creator>
+    <dc:contributor>John Sherer</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier id="bookid">urn:uuid:3bd537d0-58a0-4d89-a845-5a650120256d</dc:identifier>
+  </metadata>
+  <manifest>
+    <item id="css" href="style.css" media-type="text/css"/><item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/><item id="front" href="front.xhtml" media-type="application/xhtml+xml"/><item id="s1" href="section_01.xhtml" media-type="application/xhtml+xml"/><item id="s2" href="section_02.xhtml" media-type="application/xhtml+xml"/><item id="s3" href="section_03.xhtml" media-type="application/xhtml+xml"/><item id="s4" href="section_04.xhtml" media-type="application/xhtml+xml"/><item id="s5" href="section_05.xhtml" media-type="application/xhtml+xml"/><item id="s6" href="section_06.xhtml" media-type="application/xhtml+xml"/><item id="s7" href="section_07.xhtml" media-type="application/xhtml+xml"/><item id="s8" href="section_08.xhtml" media-type="application/xhtml+xml"/><item id="s9" href="section_09.xhtml" media-type="application/xhtml+xml"/><item id="s10" href="section_10.xhtml" media-type="application/xhtml+xml"/><item id="s11" href="section_11.xhtml" media-type="application/xhtml+xml"/><item id="s12" href="section_12.xhtml" media-type="application/xhtml+xml"/><item id="s13" href="section_13.xhtml" media-type="application/xhtml+xml"/><item id="s14" href="section_14.xhtml" media-type="application/xhtml+xml"/><item id="s15" href="section_15.xhtml" media-type="application/xhtml+xml"/><item id="s16" href="section_16.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine>
+    <itemref idref="front"/><itemref idref="s1"/><itemref idref="s2"/><itemref idref="s3"/><itemref idref="s4"/><itemref idref="s5"/><itemref idref="s6"/><itemref idref="s7"/><itemref idref="s8"/><itemref idref="s9"/><itemref idref="s10"/><itemref idref="s11"/><itemref idref="s12"/><itemref idref="s13"/><itemref idref="s14"/><itemref idref="s15"/><itemref idref="s16"/>
+  </spine>
+</package>

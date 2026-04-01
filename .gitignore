@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.py
+
+# Generated/packaged ebook and scan assets
+*.epub
+*.pdf
+
+# Ignore generated artifact folders by default
+**/input/
+**/output/
+**/epub/
+**/work_bk/
