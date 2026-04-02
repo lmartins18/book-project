@@ -69,5 +69,5 @@ img.ornament {
 }
 
 @media (prefers-color-scheme: dark) {
-  img.ornament { filter: invert(1); }
+  img { filter: invert(1); }
 }
