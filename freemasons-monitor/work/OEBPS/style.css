@@ -61,7 +61,12 @@ a[href^="#fn"] sup {
 a[href^="#fn"] sup:hover {
   color: #000;
 }
-
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
 img.ornament {
   display: block;
   width: 70%;
