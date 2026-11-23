@@ -76,3 +76,20 @@ img.ornament {
 @media (prefers-color-scheme: dark) {
   img { filter: invert(1); }
 }
+/* ── Classes used by the restored chapters (added 2026-10-31) ── */
+p.noindent { text-indent: 0; }
+.smallcaps { font-variant: small-caps; }
+p.verse {
+  text-indent: 0;
+  margin: 0.8em 0 0.8em 2em;
+  line-height: 1.45;
+}
+div.page-break {
+  page-break-after: always;
+  break-after: page;
+}
+div.titlepage { text-align: center; }
+figure {
+  margin: 1.2em auto;
+  text-align: center;
+}

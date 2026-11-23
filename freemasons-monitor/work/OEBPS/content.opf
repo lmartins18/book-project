@@ -4,13 +4,126 @@
     <dc:title>The Freemason's Monitor</dc:title>
     <dc:creator>Thomas Smith Webb</dc:creator>
     <dc:contributor>John Sherer</dc:contributor>
+    <dc:publisher>R. W. Carroll &amp; Co.</dc:publisher>
+    <dc:date>1867</dc:date>
     <dc:language>en</dc:language>
     <dc:identifier id="bookid">urn:uuid:3bd537d0-58a0-4d89-a845-5a650120256d</dc:identifier>
+    <meta property="dcterms:modified">2026-10-31T15:15:23Z</meta>
   </metadata>
   <manifest>
-    <item id="css" href="style.css" media-type="text/css"/><item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/><item id="front" href="front.xhtml" media-type="application/xhtml+xml"/><item id="s1" href="section_01.xhtml" media-type="application/xhtml+xml"/><item id="s2" href="section_02.xhtml" media-type="application/xhtml+xml"/><item id="s3" href="section_03.xhtml" media-type="application/xhtml+xml"/><item id="s4" href="section_04.xhtml" media-type="application/xhtml+xml"/><item id="s5" href="section_05.xhtml" media-type="application/xhtml+xml"/><item id="s6" href="section_06.xhtml" media-type="application/xhtml+xml"/><item id="s7" href="section_07.xhtml" media-type="application/xhtml+xml"/><item id="s8" href="section_08.xhtml" media-type="application/xhtml+xml"/><item id="s9" href="section_09.xhtml" media-type="application/xhtml+xml"/><item id="s10" href="section_10.xhtml" media-type="application/xhtml+xml"/><item id="s11" href="section_11.xhtml" media-type="application/xhtml+xml"/><item id="s12" href="section_12.xhtml" media-type="application/xhtml+xml"/><item id="s13" href="section_13.xhtml" media-type="application/xhtml+xml"/><item id="s14" href="section_14.xhtml" media-type="application/xhtml+xml"/><item id="s15" href="section_15.xhtml" media-type="application/xhtml+xml"/><item id="s16" href="section_16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="css" href="style.css" media-type="text/css"/>
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="front" href="front.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s1" href="section_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s2" href="section_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s3" href="section_03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s4" href="section_04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s5" href="section_05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s6" href="section_06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s7" href="section_07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s8" href="section_08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s9" href="section_09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s10" href="section_10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s11" href="section_11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s12" href="section_12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s13" href="section_13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s13b" href="section_13b.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s13c" href="section_13c.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s14" href="section_14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s15" href="section_15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s16" href="section_16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="img-all-seeing-eye-symbol-png" href="images/all-seeing-eye-symbol.png" media-type="image/png"/>
+    <item id="img-allegory-time-wisdom-mortality-engraving-png" href="images/allegory_time_wisdom_mortality_engraving.png" media-type="image/png"/>
+    <item id="img-altar-lights-png" href="images/altar-lights.png" media-type="image/png"/>
+    <item id="img-anchor-and-ark-png" href="images/anchor-and-ark.png" media-type="image/png"/>
+    <item id="img-arched-stone-vault-a-long-passage-with-p188-png" href="images/arched-stone-vault-a-long-passage-with-p188.png" media-type="image/png"/>
+    <item id="img-beehive-png" href="images/beehive.png" media-type="image/png"/>
+    <item id="img-bible-and-charter-png" href="images/bible-and-charter.png" media-type="image/png"/>
+    <item id="img-bible-square-and-compass-png" href="images/bible-square-and-compass.png" media-type="image/png"/>
+    <item id="img-book-and-globe-figures-png" href="images/book-and-globe-figures.png" media-type="image/png"/>
+    <item id="img-book-of-truth-png" href="images/book-of-truth.png" media-type="image/png"/>
+    <item id="img-candles-png" href="images/candles.png" media-type="image/png"/>
+    <item id="img-captain-of-the-host-s-jewel-an-p173-png" href="images/captain-of-the-host-s-jewel-an-p173.png" media-type="image/png"/>
+    <item id="img-cardinal-virtues-png" href="images/cardinal-virtues.png" media-type="image/png"/>
+    <item id="img-casket-png" href="images/casket.png" media-type="image/png"/>
+    <item id="img-chamber-illustration-png" href="images/chamber-illustration.png" media-type="image/png"/>
+    <item id="img-charity-scene-png" href="images/charity-scene.png" media-type="image/png"/>
+    <item id="img-ea-outdoors-png" href="images/ea-outdoors.png" media-type="image/png"/>
+    <item id="img-ea-tessleboard-png" href="images/ea-tessleboard.png" media-type="image/png"/>
+    <item id="img-east-west-lodge-png" href="images/east-west-lodge.png" media-type="image/png"/>
+    <item id="img-fellow-craft-altar-png" href="images/fellow-craft-altar.png" media-type="image/png"/>
+    <item id="img-fellowcraft-section-plan-png" href="images/fellowcraft-section-plan.png" media-type="image/png"/>
+    <item id="img-freemasonry-degrees-3-5-7-temple-symbolism-png" href="images/freemasonry_degrees_3_5_7_temple_symbolism.png" media-type="image/png"/>
+    <item id="img-friendship-morality-brotherly-love-png" href="images/friendship-morality-brotherly-love.png" media-type="image/png"/>
+    <item id="img-gauge-and-gavel-png" href="images/gauge-and-gavel.png" media-type="image/png"/>
+    <item id="img-globes-on-pillars-png" href="images/globes-on-pillars.png" media-type="image/png"/>
+    <item id="img-high-priest-s-jewel-a-miter-within-p167-png" href="images/high-priest-s-jewel-a-miter-within-p167.png" media-type="image/png"/>
+    <item id="img-hourglass-png" href="images/hourglass.png" media-type="image/png"/>
+    <item id="img-jacobs-ladder-png" href="images/jacobs-ladder.png" media-type="image/png"/>
+    <item id="img-king-s-jewel-a-level-surmounted-by-p171-png" href="images/king-s-jewel-a-level-surmounted-by-p171.png" media-type="image/png"/>
+    <item id="img-lamb-emblem-png" href="images/lamb-emblem.png" media-type="image/png"/>
+    <item id="img-lodge-diagram-png" href="images/lodge-diagram.png" media-type="image/png"/>
+    <item id="img-map-of-the-route-from-babylon-to-p148-png" href="images/map-of-the-route-from-babylon-to-p148.png" media-type="image/png"/>
+    <item id="img-mark-master-chisel-png" href="images/mark-master-chisel.png" media-type="image/png"/>
+    <item id="img-mark-master-mallet-png" href="images/mark-master-mallet.png" media-type="image/png"/>
+    <item id="img-mark-master-parable-scene-png" href="images/mark-master-parable-scene.png" media-type="image/png"/>
+    <item id="img-mark-master-symbols-png" href="images/mark-master-symbols.png" media-type="image/png"/>
+    <item id="img-mark-master-window-scene-png" href="images/mark-master-window-scene.png" media-type="image/png"/>
+    <item id="img-mark-masters-ode-png" href="images/mark-masters-ode.png" media-type="image/png"/>
+    <item id="img-masonic-apron-png" href="images/masonic-apron.png" media-type="image/png"/>
+    <item id="img-master-mason-jewels-png" href="images/master-mason-jewels.png" media-type="image/png"/>
+    <item id="img-master-of-the-first-vail-s-jewel-p176-png" href="images/master-of-the-first-vail-s-jewel-p176.png" media-type="image/png"/>
+    <item id="img-master-of-the-second-vail-s-jewel-p175-png" href="images/master-of-the-second-vail-s-jewel-p175.png" media-type="image/png"/>
+    <item id="img-master-of-the-third-vail-s-jewel-p175-png" href="images/master-of-the-third-vail-s-jewel-p175.png" media-type="image/png"/>
+    <item id="img-mosaic-pavement-png" href="images/mosaic-pavement.png" media-type="image/png"/>
+    <item id="img-moses-kneeling-before-the-burning-bush-an-p146-png" href="images/moses-kneeling-before-the-burning-bush-an-p146.png" media-type="image/png"/>
+    <item id="img-most-excellent-master-altar-png" href="images/most-excellent-master-altar.png" media-type="image/png"/>
+    <item id="img-most-excellent-master-frontispiece-png" href="images/most-excellent-master-frontispiece.png" media-type="image/png"/>
+    <item id="img-most-excellent-masters-ode-2-png" href="images/most-excellent-masters-ode-2.png" media-type="image/png"/>
+    <item id="img-most-excellent-masters-ode-music-continued-last-p138-png" href="images/most-excellent-masters-ode-music-continued-last-p138.png" media-type="image/png"/>
+    <item id="img-most-excellent-masters-ode-png" href="images/most-excellent-masters-ode.png" media-type="image/png"/>
+    <item id="img-old-hundred-l-m-music-for-pianoforte-p210-png" href="images/old-hundred-l-m-music-for-pianoforte-p210.png" media-type="image/png"/>
+    <item id="img-orders-of-architecture-png" href="images/orders-of-architecture.png" media-type="image/png"/>
+    <item id="img-ornament-svg" href="images/ornament.svg" media-type="image/svg+xml"/>
+    <item id="img-past-master-coffin-png" href="images/past-master-coffin.png" media-type="image/png"/>
+    <item id="img-past-master-installation-ode-png" href="images/past-master-installation-ode.png" media-type="image/png"/>
+    <item id="img-past-master-symbols-png" href="images/past-master-symbols.png" media-type="image/png"/>
+    <item id="img-perfect-ashlar-png" href="images/perfect-ashlar.png" media-type="image/png"/>
+    <item id="img-plan-of-the-royal-arch-an-arch-p144-png" href="images/plan-of-the-royal-arch-an-arch-p144.png" media-type="image/png"/>
+    <item id="img-plumb-square-level-png" href="images/plumb-square-level.png" media-type="image/png"/>
+    <item id="img-pot-png" href="images/pot.png" media-type="image/png"/>
+    <item id="img-principal-sojourner-s-jewel-a-pilgrim-with-p174-png" href="images/principal-sojourner-s-jewel-a-pilgrim-with-p174.png" media-type="image/png"/>
+    <item id="img-right-angle-diagram-png" href="images/right-angle-diagram.png" media-type="image/png"/>
+    <item id="img-rough-ashlar-png" href="images/rough-ashlar.png" media-type="image/png"/>
+    <item id="img-royal-arch-captain-s-jewel-a-sword-p175-png" href="images/royal-arch-captain-s-jewel-a-sword-p175.png" media-type="image/png"/>
+    <item id="img-royal-arch-emblems-a-triangle-the-golden-p151-png" href="images/royal-arch-emblems-a-triangle-the-golden-p151.png" media-type="image/png"/>
+    <item id="img-royal-arch-frontispiece-png" href="images/royal-arch-frontispiece.png" media-type="image/png"/>
+    <item id="img-royal-master-frontispiece-two-figures-before-an-p184-png" href="images/royal-master-frontispiece-two-figures-before-an-p184.png" media-type="image/png"/>
+    <item id="img-scribe-s-jewel-a-plumb-rule-surmounted-p172-png" href="images/scribe-s-jewel-a-plumb-rule-surmounted-p172.png" media-type="image/png"/>
+    <item id="img-scythe-png" href="images/scythe.png" media-type="image/png"/>
+    <item id="img-second-section-symbols-png" href="images/second-section-symbols.png" media-type="image/png"/>
+    <item id="img-secretary-s-jewel-crossed-pens-within-a-p177-png" href="images/secretary-s-jewel-crossed-pens-within-a-p177.png" media-type="image/png"/>
+    <item id="img-section-symbols-png" href="images/section-symbols.png" media-type="image/png"/>
+    <item id="img-stewards-jewel-a-cornucopia-within-a-triangle-p178-png" href="images/stewards-jewel-a-cornucopia-within-a-triangle-p178.png" media-type="image/png"/>
+    <item id="img-stone-and-rubble-png" href="images/stone-and-rubble.png" media-type="image/png"/>
+    <item id="img-temple-front-png" href="images/temple-front.png" media-type="image/png"/>
+    <item id="img-the-captives-of-judah-led-away-in-p147-png" href="images/the-captives-of-judah-led-away-in-p147.png" media-type="image/png"/>
+    <item id="img-the-forty-seven-problem-of-euclid-png" href="images/the-forty-seven-problem-of-euclid.png" media-type="image/png"/>
+    <item id="img-the-keystone-marked-with-the-letters-h-p153-png" href="images/the-keystone-marked-with-the-letters-h-p153.png" media-type="image/png"/>
+    <item id="img-three-squares-the-ark-of-the-covenant-p153-png" href="images/three-squares-the-ark-of-the-covenant-p153.png" media-type="image/png"/>
+    <item id="img-three-steps-png" href="images/three-steps.png" media-type="image/png"/>
+    <item id="img-title-page-vignette-the-tomb-of-webb-p010-png" href="images/title-page-vignette-the-tomb-of-webb-p010.png" media-type="image/png"/>
+    <item id="img-treasurer-s-jewel-crossed-keys-within-a-p177-png" href="images/treasurer-s-jewel-crossed-keys-within-a-p177.png" media-type="image/png"/>
+    <item id="img-trowel-png" href="images/trowel.png" media-type="image/png"/>
+    <item id="img-tyler-s-jewel-crossed-swords-within-a-p178-png" href="images/tyler-s-jewel-crossed-swords-within-a-p178.png" media-type="image/png"/>
+    <item id="img-tylers-sword-and-book-of-constitutions-png" href="images/tylers-sword-and-book-of-constitutions.png" media-type="image/png"/>
+    <item id="img-tylers-sword-and-heart-png" href="images/tylers-sword-and-heart.png" media-type="image/png"/>
+    <item id="img-wall-handshake-png" href="images/wall-handshake.png" media-type="image/png"/>
+    <item id="img-winding-stairs-png" href="images/winding-stairs.png" media-type="image/png"/>
+    <item id="img-wisdom-strength-beauty-png" href="images/wisdom-strength-beauty.png" media-type="image/png"/>
+    <item id="img-wisdom-strenth-beauty-pillars-png" href="images/wisdom-strenth-beauty-pillars.png" media-type="image/png"/>
   </manifest>
   <spine>
-    <itemref idref="front"/><itemref idref="s1"/><itemref idref="s2"/><itemref idref="s3"/><itemref idref="s4"/><itemref idref="s5"/><itemref idref="s6"/><itemref idref="s7"/><itemref idref="s8"/><itemref idref="s9"/><itemref idref="s10"/><itemref idref="s11"/><itemref idref="s12"/><itemref idref="s13"/><itemref idref="s14"/><itemref idref="s15"/><itemref idref="s16"/>
+    <itemref idref="front"/><itemref idref="s1"/><itemref idref="s2"/><itemref idref="s3"/><itemref idref="s4"/><itemref idref="s5"/><itemref idref="s6"/><itemref idref="s7"/><itemref idref="s8"/><itemref idref="s9"/><itemref idref="s10"/><itemref idref="s11"/><itemref idref="s12"/><itemref idref="s13"/><itemref idref="s13b"/><itemref idref="s13c"/><itemref idref="s14"/><itemref idref="s15"/><itemref idref="s16"/>
   </spine>
 </package>
